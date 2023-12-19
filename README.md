@@ -1,4 +1,4 @@
-<h1> restauran-proje </h1>
+<h1> restaurant-proje </h1>
 
 Müşterilerin menüyü görüntülemesi, rezervasyon yapması ve restoran hakkında bilgi edinmesi için tasarlanmıştır.
 
